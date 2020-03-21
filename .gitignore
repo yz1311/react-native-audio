@@ -31,6 +31,9 @@ node_modules/
 npm-debug.log
 
 android/gradle/
+android/.gradle/
+android/.settings/
 android/gradlew
+android/.project
 android/gradlew.bat
 .idea
